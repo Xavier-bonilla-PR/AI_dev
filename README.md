@@ -41,7 +41,7 @@ To run the automated experimentation system:
 
 1. Execute the main script:
    ```
-   python main.py
+   python iterative_code_generator.py
    ```
 
 2. When prompted, enter:
