@@ -62,4 +62,5 @@ Contributions to this project are welcome. Please fork the repository and submit
 ## Acknowledgements
 
 - This project uses the Aider library for code generation and management.
+- Used prompts and code from AI scientist from Sakana AI: https://github.com/SakanaAI/AI-Scientist/tree/main
 - The Claude 3.5 Sonnet model by Anthropic is used for AI-powered code generation.
